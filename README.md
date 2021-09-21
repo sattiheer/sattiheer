@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sattiheer
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning Go and System Design
+- 💞️ I’m looking to collaborate on open souce projects 
+- 📫 How to reach me: satti2794@gmail.com
